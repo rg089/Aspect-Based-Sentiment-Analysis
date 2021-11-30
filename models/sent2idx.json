@@ -1,0 +1,6 @@
+{
+    "positive": 0,
+    "neutral": 1,
+    "negative": 2,
+    "conflict": 3
+}
